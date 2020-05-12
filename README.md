@@ -1,7 +1,7 @@
 # Twilio-Sms-Api-SpringBoot
 * Using Twilio Sms api, you can send sms locally or internationally.
 ### Twilio registration and configuration:
-* Register on [Twilio's website](https://twilio.com/) .
+* Register on [Twilio](https://twilio.com/) .
 * Sign up there with required credentials. 
 * After signing up, a page will appear to verify your identity. 
 * Provide your real phone number because,a verification code will sent to this phone number.
